@@ -56,3 +56,7 @@
 footer{
     text-align: center;
 }
+.bt2{
+    position: relative;
+    border-top: 10px;
+}
